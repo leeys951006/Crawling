@@ -1,0 +1,6 @@
+A simple HTTP Request & Response Service.
+                                        
+
+Run locally: 
+$ docker run -p 80:80 kennethreitz/httpbin
+
